@@ -16,6 +16,10 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 ```shell
 git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 ```
+#### After Cloning AstroNvim, Install below in AstroNvim!!!
+```shell
+:TSInstall c lua vim
+```
 
 #### Create a new user repository from this template
 
